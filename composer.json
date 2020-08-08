@@ -1,5 +1,5 @@
 {
-    "name": "civicrm/civicrm-cxn-rpc",
+    "name": "rotary/civicrm-cxn-rpc",
     "description": "RPC library for CiviConnect",
     "require": {
         "psr/log": "~1.0",
